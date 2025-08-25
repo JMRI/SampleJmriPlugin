@@ -1,2 +1,2 @@
-# JmriPlugin
+# SampleJmriPlugin
 Example plugin for JMRI
